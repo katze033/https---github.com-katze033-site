@@ -1,0 +1,29 @@
+
+body {
+    background-color: #111;
+    color: #eee;
+    font-family: sans-serif;
+    width: 80vw;
+    margin: 2vw 2vw;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+
+a {
+    color: #eee;
+    transition: color 0.5s;
+    -webkit-transition: color 0.5s;
+    -moz-transition: color 0.5s;
+    -ms-transition: color 0.5s;
+    -o-transition: color 0.5s;
+}
+
+a:hover {
+    color: #f15060;
+}
