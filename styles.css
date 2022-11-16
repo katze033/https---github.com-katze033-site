@@ -23,9 +23,10 @@ a {
     -o-transition: color 0.5s;
 }
 
-a:hover {
+a:hover, .active {
     color: #f15060;
 }
+
 
 h1 {
     font-size: 24px;
