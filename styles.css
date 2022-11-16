@@ -30,3 +30,8 @@ a:hover {
 h1 {
     font-size: 24px;
 }
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
