@@ -1,7 +1,7 @@
 
 body {
-    background-color: #111;
-    color: #eee;
+    background-color: #D9DDDC;
+    color: #000;
     font-family: sans-serif;
     margin: 2vw 2vw;
     font-size: 16px;
@@ -14,7 +14,7 @@ ul {
 
 
 a {
-    color: #eee;
+    color: #111;
     transition: color 0.5s;
     -webkit-transition: color 0.5s;
     -moz-transition: color 0.5s;
@@ -23,7 +23,7 @@ a {
 }
 
 a:hover, .active {
-    color: #f15060;
+    color: #F93943;
 }
 
 
