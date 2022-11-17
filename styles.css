@@ -37,3 +37,7 @@ h1 {
     height: auto;
     width:auto;
 }
+
+.gallery-item {
+    margin-bottom: 50px;
+}
