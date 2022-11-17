@@ -31,7 +31,7 @@ h1 {
     font-size: 24px;
 }
 
-.responsive {
+.responsive, video {
     max-width: 100%;
     max-height: 550px;
     height: auto;
