@@ -21,11 +21,14 @@ a {
     -o-transition: color 0.5s;
 }
 
-a:hover, .active {
+a:hover, #active {
     color: #F93943;
 }
 
-
+.navLink {
+   display: inline-block;
+   padding: 5px 0px;
+}
 
 
 .responsive, video {
