@@ -1,6 +1,6 @@
 
 body {
-    background-color: #D9DDDC;
+    background-color: #eeeeee;
     color: #000;
     font-family: sans-serif;
     margin: 2vw 2vw;
@@ -22,7 +22,7 @@ a {
 }
 
 a:hover, #active {
-    color: #F93943;
+    color: #ED254E;
 }
 
 .navLink {
