@@ -1,8 +1,13 @@
 
+@font-face {
+    font-family: Tangerine;
+    src: url(Tangerine.otf);
+}
+
 body {
-    background-color: #eeeeee;
+    background-color: #fffcf7;
     color: #000;
-    font-family: sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 2vw 2vw;
 }
 
@@ -40,4 +45,8 @@ a:hover, #active {
 
 .gallery-item {
     margin-bottom: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Tangerine, sans-serif;
 }
