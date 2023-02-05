@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: #fffcf7;
-    color: #000;
+    background-color: #111;
+    color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 2vw 2vw;
 }
@@ -18,7 +18,7 @@ ul {
 
 
 a {
-    color: #000;
+    color: #fff;
     transition: color 0.5s;
     -webkit-transition: color 0.5s;
     -moz-transition: color 0.5s;
